@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import argparse, os, socket, struct, sys
 
 CHUNK = 8192
